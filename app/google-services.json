@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707623031084",
+    "project_id": "taskify-1205",
+    "storage_bucket": "taskify-1205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707623031084:android:5ce6442b0a292cbb605c89",
+        "android_client_info": {
+          "package_name": "com.example.taskify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1piGBB8Pd-nH3dyoV7_8cj3OnKfXAn5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

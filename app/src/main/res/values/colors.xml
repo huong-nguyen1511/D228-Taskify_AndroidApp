@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="edit_background">#009688</color> <!-- Green color for edit background -->
+    <color name="delete_background">#F44336</color> <!-- Red color for delete background -->
+</resources>

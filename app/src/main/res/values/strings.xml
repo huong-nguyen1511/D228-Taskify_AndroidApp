@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Taskify</string>
+    <string name="default_web_client_id" translatable="false">707623031084-lj35kl26gks7ppu5b4ig6t8l3vkr77sd.apps.googleusercontent.com</string>
+</resources>
